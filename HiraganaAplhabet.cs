@@ -1,0 +1,5 @@
+﻿/*namespace HiraganaFlashcards { 
+    public class {
+
+    }
+}*/
