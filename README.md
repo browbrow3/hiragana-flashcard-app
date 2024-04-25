@@ -1,1 +1,1 @@
-"Hiragana Flashcard App" 
+Hiragana Flashcard App
